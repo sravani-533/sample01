@@ -1,0 +1,28 @@
+﻿Restoring packages for C:\Users\hp\Desktop\Projecj01 Demo\Project01\Chapter08\EventConsumer\EventConsumer.csproj...
+Installing NuGet package FluentAssertions.NodaTime 2.0.1.
+Writing assets file to disk. Path: C:\Users\hp\Desktop\Projecj01 Demo\Project01\Chapter08\EventConsumer\obj\project.assets.json
+Successfully installed 'FluentAssertions 6.0.0' to EventConsumer
+Successfully installed 'FluentAssertions.NodaTime 2.0.1' to EventConsumer
+Successfully installed 'NodaTime 3.0.0' to EventConsumer
+Successfully installed 'System.Configuration.ConfigurationManager 4.4.0' to EventConsumer
+Successfully installed 'System.Runtime.CompilerServices.Unsafe 4.7.1' to EventConsumer
+Successfully installed 'System.Security.Cryptography.ProtectedData 4.4.0' to EventConsumer
+Restoring packages for C:\Users\hp\Desktop\Projecj01 Demo\Project01\Chapter08\LoyaltyProgramServiceTests\LoyaltyProgramServiceTests.csproj...
+Writing assets file to disk. Path: C:\Users\hp\Desktop\Projecj01 Demo\Project01\Chapter08\LoyaltyProgramServiceTests\obj\project.assets.json
+
+NuGet Config files used:
+    C:\Users\hp\AppData\Roaming\NuGet\NuGet.Config
+    C:\Program Files (x86)\NuGet\Config\Microsoft.VisualStudio.FallbackLocation.config
+    C:\Program Files (x86)\NuGet\Config\Microsoft.VisualStudio.Offline.config
+
+Feeds used:
+    https://api.nuget.org/v3/index.json
+    https://pkgs.dev.azure.com/mewurk/_packaging/MeWurkAzureDevOpsArtifactsFeed/nuget/v3/index.json
+    C:\Program Files (x86)\Microsoft SDKs\NuGetPackages\
+    https://pkgs.dev.azure.com/mayurdangi/Project01/_packaging/demofeed3/nuget/v3/index.json
+    https://pkgs.dev.azure.com/mayurdangi/Project01/_packaging/demofeed/nuget/v3/index.json
+    https://pkgs.dev.azure.com/mayurdangi/Project01/_packaging/demofeed2/nuget/v3/index.json
+Executing nuget actions took 473 ms
+Time Elapsed: 00:00:00.7584969
+========== Finished ==========
+
